@@ -1,0 +1,26 @@
+<suite name="SuiteName">
+	
+	
+	<test name="TestA" allow-return-values="true">
+		<classes>
+			<class name="com.selenium.core.ddf.testcases.TestA" />
+		</classes>
+	</test>
+	
+	<test name="TestB" allow-return-values="true">
+		<classes>
+			<class name="com.selenium.core.ddf.testcases.TestB" />
+		</classes>
+	</test>
+	
+	<test name="TestC" allow-return-values="true">
+		<classes>
+			<class name="com.selenium.core.ddf.testcases.TestC" />
+		</classes>
+	</test>
+	
+	
+	
+	
+</suite>
+
